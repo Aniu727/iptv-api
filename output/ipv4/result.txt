@@ -1,20 +1,18 @@
 🕘️更新时间,#genre#
-2026-05-07 19:47:05,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
+2026-05-08 06:59:09,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
 
 央视高清,#genre#
 
 卫视高清,#genre#
 湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
-湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=4
 湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=2
 湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=4
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
-北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=6
 北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=7
-北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=6
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
@@ -34,35 +32,29 @@
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 新疆卫视,http://192.151.150.154/live/xjws.m3u8
 新疆卫视,http://107.150.60.122/live/xjws.m3u8
-新疆卫视,http://198.204.228.26/live/xjws.m3u8
-三沙卫视,http://192.151.150.154/live/ssws.m3u8
 青海卫视,http://198.204.228.26/live/qhws.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 内蒙古卫视,http://198.204.228.26/live/nmgws.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
-宁夏卫视,http://192.151.150.154/live/nxws.m3u8
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 
 数字高清,#genre#
-乐游,http://47.100.29.86:29009/cms001/ch00000090990000001200/index.m3u8
-都市剧场,http://47.100.29.86:29009/cms001/ch00000090990000001203/index.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-金色学堂,http://47.100.29.86:29009/cms001/ch00000090990000001194/index.m3u8
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=9033298e8e99763fc3f8db57f94e4b57&wsTime=1778133676
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=a2b837c90284636369ae77fdac2adc85&wsTime=1777874444
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=941cb5b9cfe3adfb802d0e9ebebb6bcb&wsTime=1777442431
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=0a5aaf130a1f60ce5adb05e6f8c919ed&wsTime=1778047073
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=d4524330ec4cdc5d679c417480b4de7a&wsTime=1777701635
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=2e57d228b2898acd22179c77496b78f0&wsTime=1777096864
-文物宝库,http://web.dnmb.cn/0/p/df/hn/hntv.php?id=wwbk
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=1d6af79cf73d2290717fdfff7d22069e&wsTime=1777615244
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=08feec6cecc0ebac84b6af489da021d2&wsTime=1777788015
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=27fb2626a5db57101b82e5fca8672ae2&wsTime=1777356012
-梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=765f5d911414e73880d3b0c790abb300&wsTime=1770487102
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=d23a36e22c4ea7c81bdbdb7fce51f07a&wsTime=1773273502
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=dc6d67d61f6cecdf0e7d75ad450c05fa&wsTime=1773287976
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=f9f6b984188a89cd72239e475aa01757&wsTime=1770436789
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=8fe90702a97bfa4914c48e7ad5125959&wsTime=1773115139
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=ea2551fdf41a8607c841b820397027a1&wsTime=1770508686
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=cb74c6572939cc6c1d7cd37bdca0fec9&wsTime=1770631207
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=8b2ab6f3c0419732b668dab0d64fb2cb&wsTime=1774670366
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=5aba88557610b8d84c632665d649fb87&wsTime=1770235200
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=02ea9f1f0da493c40db43dad0c1b92c4&wsTime=1771027261
 梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=975c2c42fbaf3474e5b5da406653f22d&wsTime=1772510349
+梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
 
 国际时事,#genre#
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
