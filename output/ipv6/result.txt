@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-21 20:44:52,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+2026-05-22 07:01:42,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 央视高清,#genre#
 CCTV-1 综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -617,6 +617,8 @@ CNA,https://live.catvod.com/live.php?id=cna&token=f040757ef2d3c4c411ace841773025
 CNA,https://live.catvod.com/live.php?id=cna&token=c3b148eaa0cf3e73f68bbb8214ca7009a314fba36b4382af553595f74d512696%3A1766625897%3ANjguMjIwLjYyLjE4MA%3D%3D
 CNA,https://live.catvod.com/live.php?id=cna&token=efc3ef37cff66686064b2c9cba6efed7a0a22cc9ab8d0b153e2e25ba82a185bd%3A1766712138%3AMjAuMTA5LjM4LjI0NA%3D%3D
 CNA,https://live.catvod.com/live.php?id=cna&token=7d844f67677cff21515d8104fa2070ed17ca691f1c54e156fd44e3c25c055d24%3A1766798552%3AMTcyLjIxNC40NC40OQ%3D%3D
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 CGTN,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN,https://dash4.antik.sk/live/test_cgtn/playlist.m3u8
 CGTN,https://live.catvod.com/live.php?id=CGTN&token=0ac8692727ea86f55f657508f43205048b7d6eb212dd77d7dca15c78f6a37154%3A1766453072%3AMjAuMTYxLjY3LjIxMA%3D%3D
