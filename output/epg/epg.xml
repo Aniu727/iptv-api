@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260724225819 +0800">
+<tv date="20260725110659 +0800">
 	<channel id="湖南卫视">
 		<display-name lang="zh">湖南卫视</display-name>
 	</channel>
@@ -12573,9 +12573,6 @@
 	<programme channel="乐游" start="20260725012300 +0800" stop="20260725015900 +0800">
 		<title lang="zh">川味Ⅲ(3):百废作馔</title>
 	</programme>
-	<programme channel="乐游" start="20260725012300 +0800" stop="20260725015900 +0800">
-		<title lang="zh">川味Ⅲ(3):百废作馔</title>
-	</programme>
 	<programme channel="乐游" start="20260725015900 +0800" stop="20260725021900 +0800">
 		<title lang="zh">上海非遗:上海剪纸</title>
 	</programme>
@@ -12668,6 +12665,9 @@
 	</programme>
 	<programme channel="乐游" start="20260725130400 +0800" stop="20260725132400 +0800">
 		<title lang="zh">寻找目的地:欧洲品质河轮之旅4号</title>
+	</programme>
+	<programme channel="乐游" start="20260725132400 +0800" stop="20260725134900 +0800">
+		<title lang="zh">冀味儿Ⅱ(7):山肴野簌</title>
 	</programme>
 	<programme channel="乐游" start="20260725132400 +0800" stop="20260725134900 +0800">
 		<title lang="zh">冀味儿Ⅱ(7):山肴野簌</title>
@@ -12767,9 +12767,6 @@
 	</programme>
 	<programme channel="乐游" start="20260726005500 +0800" stop="20260726012000 +0800">
 		<title lang="zh">冀味儿Ⅱ(4):原生滋味</title>
-	</programme>
-	<programme channel="乐游" start="20260726012000 +0800" stop="20260726015500 +0800">
-		<title lang="zh">川味Ⅲ(4):天赐神器</title>
 	</programme>
 	<programme channel="乐游" start="20260726012000 +0800" stop="20260726015500 +0800">
 		<title lang="zh">川味Ⅲ(4):天赐神器</title>
@@ -12876,6 +12873,9 @@
 	<programme channel="乐游" start="20260726132700 +0800" stop="20260726135100 +0800">
 		<title lang="zh">冀味儿Ⅱ(8):燕赵盛宴</title>
 	</programme>
+	<programme channel="乐游" start="20260726132700 +0800" stop="20260726135100 +0800">
+		<title lang="zh">冀味儿Ⅱ(8):燕赵盛宴</title>
+	</programme>
 	<programme channel="乐游" start="20260726135100 +0800" stop="20260726140700 +0800">
 		<title lang="zh">寻找目的地</title>
 	</programme>
@@ -12974,6 +12974,117 @@
 	</programme>
 	<programme channel="乐游" start="20260727012500 +0800" stop="20260727020000 +0800">
 		<title lang="zh">川味Ⅲ(5):化作鲜美</title>
+	</programme>
+	<programme channel="乐游" start="20260727020000 +0800" stop="20260727022500 +0800">
+		<title lang="zh">上海非遗:顾绣</title>
+	</programme>
+	<programme channel="乐游" start="20260727022500 +0800" stop="20260727023100 +0800">
+		<title lang="zh">海派百工(54):鸟哨</title>
+	</programme>
+	<programme channel="乐游" start="20260727023100 +0800" stop="20260727032100 +0800">
+		<title lang="zh">万物滋养(2):海岸</title>
+	</programme>
+	<programme channel="乐游" start="20260727032100 +0800" stop="20260727032600 +0800">
+		<title lang="zh">国宝里的新疆Ⅲ(6):天山荷戈人</title>
+	</programme>
+	<programme channel="乐游" start="20260727032600 +0800" stop="20260727033600 +0800">
+		<title lang="zh">盛世芳华(9)</title>
+	</programme>
+	<programme channel="乐游" start="20260727033600 +0800" stop="20260727040300 +0800">
+		<title lang="zh">希腊美食(4):橄榄油</title>
+	</programme>
+	<programme channel="乐游" start="20260727040300 +0800" stop="20260727042800 +0800">
+		<title lang="zh">冀味儿Ⅱ(6):燕山风情</title>
+	</programme>
+	<programme channel="乐游" start="20260727042800 +0800" stop="20260727050300 +0800">
+		<title lang="zh">川味Ⅲ(6):油燃而生</title>
+	</programme>
+	<programme channel="乐游" start="20260727050300 +0800" stop="20260727052800 +0800">
+		<title lang="zh">上海非遗:邬泥泾手工棉纺织工艺</title>
+	</programme>
+	<programme channel="乐游" start="20260727052800 +0800" stop="20260727053400 +0800">
+		<title lang="zh">海派百工(55):犀皮髹饰工艺</title>
+	</programme>
+	<programme channel="乐游" start="20260727053400 +0800" stop="20260727062300 +0800">
+		<title lang="zh">万物滋养(3):旱地</title>
+	</programme>
+	<programme channel="乐游" start="20260727062300 +0800" stop="20260727063000 +0800">
+		<title lang="zh">国宝里的新疆Ⅲ(7):西征孤勇者</title>
+	</programme>
+	<programme channel="乐游" start="20260727063000 +0800" stop="20260727064000 +0800">
+		<title lang="zh">盛世芳华(10)</title>
+	</programme>
+	<programme channel="乐游" start="20260727064000 +0800" stop="20260727070700 +0800">
+		<title lang="zh">希腊美食(5):小吃文化</title>
+	</programme>
+	<programme channel="乐游" start="20260727070700 +0800" stop="20260727073200 +0800">
+		<title lang="zh">冀味儿Ⅱ(7):山肴野簌</title>
+	</programme>
+	<programme channel="乐游" start="20260727073200 +0800" stop="20260727073400 +0800">
+		<title lang="zh">一碗人间烟火(30):早晨的呼喊</title>
+	</programme>
+	<programme channel="乐游" start="20260727073400 +0800" stop="20260727080000 +0800">
+		<title lang="zh">湘当韵味Ⅱ(1):水韵边城</title>
+	</programme>
+	<programme channel="乐游" start="20260727080000 +0800" stop="20260727080600 +0800">
+		<title lang="zh">乐游上海:外滩源美丰大楼</title>
+	</programme>
+	<programme channel="乐游" start="20260727080600 +0800" stop="20260727080800 +0800">
+		<title lang="zh">一碗人间烟火(32)</title>
+	</programme>
+	<programme channel="乐游" start="20260727080800 +0800" stop="20260727083000 +0800">
+		<title lang="zh">上海非遗:泗泾十锦细锣鼓</title>
+	</programme>
+	<programme channel="乐游" start="20260727083000 +0800" stop="20260727083500 +0800">
+		<title lang="zh">海派百工(56):百宝镶嵌</title>
+	</programme>
+	<programme channel="乐游" start="20260727083500 +0800" stop="20260727084400 +0800">
+		<title lang="zh">盛世芳华(11)</title>
+	</programme>
+	<programme channel="乐游" start="20260727084400 +0800" stop="20260727090100 +0800">
+		<title lang="zh">寻找目的地:山水画卷多彩贵州6号</title>
+	</programme>
+	<programme channel="乐游" start="20260727090100 +0800" stop="20260727092700 +0800">
+		<title lang="zh">寻找目的地</title>
+	</programme>
+	<programme channel="乐游" start="20260727092700 +0800" stop="20260727093300 +0800">
+		<title lang="zh">长城我们的故事(1)</title>
+	</programme>
+	<programme channel="乐游" start="20260727093300 +0800" stop="20260727102500 +0800">
+		<title lang="zh">东购山水画卷多彩贵州双飞7日</title>
+	</programme>
+	<programme channel="乐游" start="20260727102500 +0800" stop="20260727102800 +0800">
+		<title lang="zh">一碗人间烟火(33):红酒烩牛尾</title>
+	</programme>
+	<programme channel="乐游" start="20260727102800 +0800" stop="20260727105300 +0800">
+		<title lang="zh">湘当韵味Ⅱ(2):雄山奇味</title>
+	</programme>
+	<programme channel="乐游" start="20260727105300 +0800" stop="20260727105500 +0800">
+		<title lang="zh">一碗人间烟火:浓情巧克力火锅</title>
+	</programme>
+	<programme channel="乐游" start="20260727105500 +0800" stop="20260727112000 +0800">
+		<title lang="zh">上海非遗:江南丝竹</title>
+	</programme>
+	<programme channel="乐游" start="20260727112000 +0800" stop="20260727112600 +0800">
+		<title lang="zh">海派百工:传统戏曲服装制作技艺</title>
+	</programme>
+	<programme channel="乐游" start="20260727112600 +0800" stop="20260727121500 +0800">
+		<title lang="zh">万物滋养(5):江湖</title>
+	</programme>
+	<programme channel="乐游" start="20260727121500 +0800" stop="20260727123400 +0800">
+		<title lang="zh">寻找目的地:桂越双城记4号</title>
+	</programme>
+	<programme channel="乐游" start="20260727123400 +0800" stop="20260727125600 +0800">
+		<title lang="zh">寻找目的地</title>
+	</programme>
+	<programme channel="乐游" start="20260727125600 +0800" stop="20260727132100 +0800">
+		<title lang="zh">冀味儿Ⅱ(9):乡甜味道</title>
+	</programme>
+	<programme channel="乐游" start="20260727132100 +0800" stop="20260727132300 +0800">
+		<title lang="zh">一碗人间烟火(35)</title>
+	</programme>
+	<programme channel="乐游" start="20260727132300 +0800" stop="20260727134900 +0800">
+		<title lang="zh">湘当韵味Ⅱ(3):南岭原味</title>
 	</programme>
 	<channel id="安多卫视">
 		<display-name lang="zh">安多卫视</display-name>
@@ -13647,31 +13758,28 @@
 	<programme channel="海南卫视" start="20260724232000 +0800" stop="20260725001000 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20260725001000 +0800" stop="20260725001500 +0800">
+	<programme channel="海南卫视" start="20260725001000 +0800" stop="20260725001800 +0800">
 		<title lang="zh">音乐心旅程</title>
 	</programme>
-	<programme channel="海南卫视" start="20260725001500 +0800" stop="20260725023500 +0800">
+	<programme channel="海南卫视" start="20260725001800 +0800" stop="20260725023800 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260725001500 +0800" stop="20260725023500 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
-	<programme channel="海南卫视" start="20260725023500 +0800" stop="20260725030000 +0800">
+	<programme channel="海南卫视" start="20260725023800 +0800" stop="20260725030300 +0800">
 		<title lang="zh">步步为营</title>
 	</programme>
-	<programme channel="海南卫视" start="20260725030000 +0800" stop="20260725035000 +0800">
+	<programme channel="海南卫视" start="20260725030300 +0800" stop="20260725035000 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
 	<programme channel="海南卫视" start="20260725035000 +0800" stop="20260725042000 +0800">
 		<title lang="zh">全球国货之光</title>
 	</programme>
-	<programme channel="海南卫视" start="20260725042000 +0800" stop="20260725045600 +0800">
+	<programme channel="海南卫视" start="20260725042000 +0800" stop="20260725045900 +0800">
 		<title lang="zh">动漫剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260725045600 +0800" stop="20260725062500 +0800">
+	<programme channel="海南卫视" start="20260725045900 +0800" stop="20260725062800 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260725062500 +0800" stop="20260725070000 +0800">
+	<programme channel="海南卫视" start="20260725062800 +0800" stop="20260725070000 +0800">
 		<title lang="zh">步步为营</title>
 	</programme>
 	<programme channel="海南卫视" start="20260725070000 +0800" stop="20260725070100 +0800">
@@ -13679,6 +13787,9 @@
 	</programme>
 	<programme channel="海南卫视" start="20260725070100 +0800" stop="20260725073300 +0800">
 		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260725073300 +0800" stop="20260725180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20260725073300 +0800" stop="20260725180800 +0800">
 		<title lang="zh">阳光剧场</title>
@@ -13722,9 +13833,6 @@
 	<programme channel="海南卫视" start="20260726010000 +0800" stop="20260726023000 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260726010000 +0800" stop="20260726023000 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
 	<programme channel="海南卫视" start="20260726023000 +0800" stop="20260726032000 +0800">
 		<title lang="zh">纪录中国</title>
 	</programme>
@@ -13748,6 +13856,9 @@
 	</programme>
 	<programme channel="海南卫视" start="20260726070100 +0800" stop="20260726073300 +0800">
 		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260726073300 +0800" stop="20260726180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20260726073300 +0800" stop="20260726180800 +0800">
 		<title lang="zh">阳光剧场</title>
@@ -13787,6 +13898,33 @@
 	</programme>
 	<programme channel="海南卫视" start="20260727010000 +0800" stop="20260727023500 +0800">
 		<title lang="zh">凌晨剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260727023500 +0800" stop="20260727030500 +0800">
+		<title lang="zh">全球国货之光</title>
+	</programme>
+	<programme channel="海南卫视" start="20260727030500 +0800" stop="20260727033000 +0800">
+		<title lang="zh">步步为营</title>
+	</programme>
+	<programme channel="海南卫视" start="20260727033000 +0800" stop="20260727042000 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="海南卫视" start="20260727042000 +0800" stop="20260727045600 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260727045600 +0800" stop="20260727063500 +0800">
+		<title lang="zh">凌晨剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260727063500 +0800" stop="20260727070000 +0800">
+		<title lang="zh">全球国货之光</title>
+	</programme>
+	<programme channel="海南卫视" start="20260727070000 +0800" stop="20260727070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="海南卫视" start="20260727070100 +0800" stop="20260727073300 +0800">
+		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260727073300 +0800" stop="20260727180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<channel id="游戏风云">
 		<display-name lang="zh">游戏风云</display-name>
@@ -14669,6 +14807,69 @@
 	</programme>
 	<programme channel="游戏风云" start="20260727013000 +0800" stop="20260727014500 +0800">
 		<title lang="zh">游戏大厅:幽暗迷宫6(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727014500 +0800" stop="20260727020000 +0800">
+		<title lang="zh">游戏大厅:幽暗迷宫6(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727020000 +0800" stop="20260727040000 +0800">
+		<title lang="zh">巅峰赛场:2022MSI冠军赛(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727040000 +0800" stop="20260727043000 +0800">
+		<title lang="zh">休闲街区:租房达人(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727043000 +0800" stop="20260727050000 +0800">
+		<title lang="zh">休闲街区:雪场大亨</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727050000 +0800" stop="20260727051500 +0800">
+		<title lang="zh">游戏大厅:幽暗迷宫6(3)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727051500 +0800" stop="20260727053000 +0800">
+		<title lang="zh">游戏大厅:幽暗迷宫6(4)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727053000 +0800" stop="20260727054500 +0800">
+		<title lang="zh">游戏大厅:尤卡茉莉与无妄之巢(3)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727054500 +0800" stop="20260727060000 +0800">
+		<title lang="zh">游戏大厅:尤卡茉莉与无妄之巢(4)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727060000 +0800" stop="20260727080000 +0800">
+		<title lang="zh">巅峰赛场:2022MSI冠军赛(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727080000 +0800" stop="20260727083000 +0800">
+		<title lang="zh">休闲街区:3D找不同</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727083000 +0800" stop="20260727090000 +0800">
+		<title lang="zh">休闲街区:渡神纪(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727090000 +0800" stop="20260727091500 +0800">
+		<title lang="zh">游戏大厅:尤卡茉莉与无妄之巢(5)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727091500 +0800" stop="20260727093000 +0800">
+		<title lang="zh">游戏大厅:尤卡茉莉与无妄之巢(6)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727093000 +0800" stop="20260727094500 +0800">
+		<title lang="zh">游戏大厅:渔人的搏斗(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727094500 +0800" stop="20260727100000 +0800">
+		<title lang="zh">游戏大厅:渔人的搏斗(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727100000 +0800" stop="20260727120000 +0800">
+		<title lang="zh">巅峰赛场:2022MSI冠军赛(3)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727120000 +0800" stop="20260727123000 +0800">
+		<title lang="zh">休闲街区:渡神纪(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727123000 +0800" stop="20260727130000 +0800">
+		<title lang="zh">休闲街区:渡神纪(3)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727130000 +0800" stop="20260727131500 +0800">
+		<title lang="zh">游戏大厅:雨中冒险2(1)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727131500 +0800" stop="20260727133000 +0800">
+		<title lang="zh">游戏大厅:雨中冒险2(2)</title>
+	</programme>
+	<programme channel="游戏风云" start="20260727133000 +0800" stop="20260727134500 +0800">
+		<title lang="zh">游戏大厅:雨中冒险2(3)</title>
 	</programme>
 	<channel id="都市剧场">
 		<display-name lang="zh">都市剧场</display-name>
@@ -17310,6 +17511,24 @@
 	<programme channel="金色学堂" start="20260724235800 +0800" stop="20260725000000 +0800">
 		<title lang="zh">海洋风光</title>
 	</programme>
+	<programme channel="金色学堂" start="20260725000000 +0800" stop="20260725002000 +0800">
+		<title lang="zh">大医来了:养生养肾,如此肾好</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725002000 +0800" stop="20260725002700 +0800">
+		<title lang="zh">课间休息、健康生活轻饮食(5)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725002700 +0800" stop="20260725003000 +0800">
+		<title lang="zh">课间休息、烹饪:水果蛋糕</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725003000 +0800" stop="20260725010000 +0800">
+		<title lang="zh">中国舞(12)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725010000 +0800" stop="20260725010800 +0800">
+		<title lang="zh">课间休息、百变丝巾(5)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725010800 +0800" stop="20260725010900 +0800">
+		<title lang="zh">荧屏之星新春版(1)</title>
+	</programme>
 	<programme channel="金色学堂" start="20260725010900 +0800" stop="20260725014600 +0800">
 		<title lang="zh">跟我轻松学二胡第十课</title>
 	</programme>
@@ -17436,78 +17655,6 @@
 	<programme channel="金色学堂" start="20260725090600 +0800" stop="20260725091400 +0800">
 		<title lang="zh">课间休息、百变丝巾(5)</title>
 	</programme>
-	<programme channel="金色学堂" start="20260725091400 +0800" stop="20260725092000 +0800">
-		<title lang="zh">课间休息、健康生活轻饮食(1)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725092000 +0800" stop="20260725095300 +0800">
-		<title lang="zh">中国书法(6)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725095300 +0800" stop="20260725095900 +0800">
-		<title lang="zh">课间休息、家庭安全小常识(6)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725095900 +0800" stop="20260725101900 +0800">
-		<title lang="zh">大医来了:养生养肾,如此肾好</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725101900 +0800" stop="20260725102700 +0800">
-		<title lang="zh">课间休息、健康生活轻饮食(5)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725102700 +0800" stop="20260725103000 +0800">
-		<title lang="zh">课间休息、烹饪:水果蛋糕</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725103000 +0800" stop="20260725111000 +0800">
-		<title lang="zh">金色营养课</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725111000 +0800" stop="20260725112600 +0800">
-		<title lang="zh">乐学书画:风景写生(1)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725112600 +0800" stop="20260725113500 +0800">
-		<title lang="zh">课间休息、百变丝巾(5)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725113500 +0800" stop="20260725114100 +0800">
-		<title lang="zh">课间休息、健康生活轻饮食(1)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725114100 +0800" stop="20260725120100 +0800">
-		<title lang="zh">生活好技艺:中西式点心</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725120100 +0800" stop="20260725120900 +0800">
-		<title lang="zh">课间休息、健康生活轻饮食(5)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725120900 +0800" stop="20260725121500 +0800">
-		<title lang="zh">课间休息、百变丝巾(2)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725121500 +0800" stop="20260725122000 +0800">
-		<title lang="zh">课间休息、家庭安全小常识(3)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725122000 +0800" stop="20260725123500 +0800">
-		<title lang="zh">生活好技艺:茶艺(4)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725123500 +0800" stop="20260725124300 +0800">
-		<title lang="zh">课间休息、家庭花卉养护:杜鹃花</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725124300 +0800" stop="20260725125000 +0800">
-		<title lang="zh">课间休息、家庭花卉养护:月季花</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725125000 +0800" stop="20260725125800 +0800">
-		<title lang="zh">课间休息、烹饪:豆沙面包</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725125800 +0800" stop="20260725125900 +0800">
-		<title lang="zh">荧屏之星新春版(1)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725125900 +0800" stop="20260725130600 +0800">
-		<title lang="zh">皮具手工制作(9):手机背包的制作</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725130600 +0800" stop="20260725131400 +0800">
-		<title lang="zh">皮具手工制作:皮质花瓶的制作</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725131400 +0800" stop="20260725131800 +0800">
-		<title lang="zh">课间休息、烹饪:杏仁饼干</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725131800 +0800" stop="20260725132600 +0800">
-		<title lang="zh">课间休息、百变丝巾(5)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260725132600 +0800" stop="20260725132900 +0800">
-		<title lang="zh">课间休息、烹饪:水果蛋糕</title>
-	</programme>
 	<programme channel="金色学堂" start="20260725132900 +0800" stop="20260725134400 +0800">
 		<title lang="zh">金色公开课:声音嘶哑、故事课</title>
 	</programme>
@@ -17609,6 +17756,75 @@
 	</programme>
 	<programme channel="金色学堂" start="20260725214000 +0800" stop="20260725215600 +0800">
 		<title lang="zh">金色风采:皱纹会跳舞-刘萍</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725215600 +0800" stop="20260725215900 +0800">
+		<title lang="zh">课间休息、烹饪:杏仁饼干</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725215900 +0800" stop="20260725221800 +0800">
+		<title lang="zh">超级美味</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725221800 +0800" stop="20260725221900 +0800">
+		<title lang="zh">荧屏之星新春版(1)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725221900 +0800" stop="20260725223900 +0800">
+		<title lang="zh">大医来了:养生养肾,如此肾好</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725223900 +0800" stop="20260725224700 +0800">
+		<title lang="zh">皮具手工制作(9):手机背包的制作</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725224700 +0800" stop="20260725225500 +0800">
+		<title lang="zh">皮具手工制作:皮质花瓶的制作</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725225500 +0800" stop="20260725225800 +0800">
+		<title lang="zh">课间休息、烹饪:杏仁饼干</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725225800 +0800" stop="20260725230700 +0800">
+		<title lang="zh">课间休息、百变丝巾(5)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725230700 +0800" stop="20260725231000 +0800">
+		<title lang="zh">课间休息、烹饪:水果蛋糕</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725231000 +0800" stop="20260725232500 +0800">
+		<title lang="zh">金色公开课:声音嘶哑、故事课</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725232500 +0800" stop="20260725233000 +0800">
+		<title lang="zh">课间休息、家庭安全小常识(4)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725233000 +0800" stop="20260725234600 +0800">
+		<title lang="zh">金色风采:皱纹会跳舞-刘萍</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725234600 +0800" stop="20260725234700 +0800">
+		<title lang="zh">金色学堂以9为名频道宣传片</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725234700 +0800" stop="20260725235500 +0800">
+		<title lang="zh">课间休息、烹饪:豆沙面包</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725235500 +0800" stop="20260725235800 +0800">
+		<title lang="zh">课间休息、烹饪:水果蛋糕</title>
+	</programme>
+	<programme channel="金色学堂" start="20260725235800 +0800" stop="20260726000000 +0800">
+		<title lang="zh">海洋风光</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726000000 +0800" stop="20260726002000 +0800">
+		<title lang="zh">大医来了</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726002000 +0800" stop="20260726002700 +0800">
+		<title lang="zh">课间休息、家庭花卉养护:杜鹃花</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726002700 +0800" stop="20260726002800 +0800">
+		<title lang="zh">荧屏之星新春版(1)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726002800 +0800" stop="20260726002900 +0800">
+		<title lang="zh">金色学堂以9为名频道宣传片</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726002900 +0800" stop="20260726005900 +0800">
+		<title lang="zh">中国舞(13)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726005900 +0800" stop="20260726010700 +0800">
+		<title lang="zh">课间休息、百变丝巾(5)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726010700 +0800" stop="20260726011000 +0800">
+		<title lang="zh">课间休息、烹饪:水果蛋糕</title>
 	</programme>
 	<programme channel="金色学堂" start="20260726011000 +0800" stop="20260726013800 +0800">
 		<title lang="zh">艺术课堂:葫芦丝初级课程(1)</title>
@@ -17739,87 +17955,6 @@
 	<programme channel="金色学堂" start="20260726091000 +0800" stop="20260726091800 +0800">
 		<title lang="zh">课间休息、健康生活轻饮食(5)</title>
 	</programme>
-	<programme channel="金色学堂" start="20260726091800 +0800" stop="20260726091900 +0800">
-		<title lang="zh">金色学堂以9为名频道宣传片</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726091900 +0800" stop="20260726094900 +0800">
-		<title lang="zh">中国书法(7)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726094900 +0800" stop="20260726095600 +0800">
-		<title lang="zh">课间休息、家庭花卉养护:蝴蝶兰</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726095600 +0800" stop="20260726095900 +0800">
-		<title lang="zh">课间休息、烹饪:杏仁饼干</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726095900 +0800" stop="20260726101900 +0800">
-		<title lang="zh">大医来了</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726101900 +0800" stop="20260726102700 +0800">
-		<title lang="zh">课间休息、家庭花卉养护:杜鹃花</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726102700 +0800" stop="20260726102800 +0800">
-		<title lang="zh">荧屏之星新春版(1)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726102800 +0800" stop="20260726102900 +0800">
-		<title lang="zh">金色学堂以9为名频道宣传片</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726102900 +0800" stop="20260726110900 +0800">
-		<title lang="zh">金色营养课</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726110900 +0800" stop="20260726112500 +0800">
-		<title lang="zh">乐学书画:风景写生(2)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726112500 +0800" stop="20260726113100 +0800">
-		<title lang="zh">课间休息、家庭花卉养护(8):多肉</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726113100 +0800" stop="20260726113800 +0800">
-		<title lang="zh">课间休息、家庭安全小常识(1)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726113800 +0800" stop="20260726113900 +0800">
-		<title lang="zh">金色学堂以9为名频道宣传片</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726113900 +0800" stop="20260726115500 +0800">
-		<title lang="zh">生活好技艺:中西式点心-韭菜盒子</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726115500 +0800" stop="20260726120300 +0800">
-		<title lang="zh">课间休息、健康生活轻饮食(5)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726120300 +0800" stop="20260726121300 +0800">
-		<title lang="zh">课间休息、百变丝巾(6)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726121300 +0800" stop="20260726121900 +0800">
-		<title lang="zh">课间休息、家庭花卉养护(8):多肉</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726121900 +0800" stop="20260726123400 +0800">
-		<title lang="zh">生活好技艺:茶艺(5)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726123400 +0800" stop="20260726124200 +0800">
-		<title lang="zh">课间休息、健康生活轻饮食(5)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726124200 +0800" stop="20260726124900 +0800">
-		<title lang="zh">课间休息、家庭安全小常识(1)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726124900 +0800" stop="20260726125700 +0800">
-		<title lang="zh">课间休息、烹饪:豆沙面包</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726125700 +0800" stop="20260726125800 +0800">
-		<title lang="zh">荧屏之星新春版(1)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726125800 +0800" stop="20260726125900 +0800">
-		<title lang="zh">金色学堂以9为名频道宣传片</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726125900 +0800" stop="20260726131700 +0800">
-		<title lang="zh">乐学书画:丝网版画(1)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726131700 +0800" stop="20260726132500 +0800">
-		<title lang="zh">课间休息、健康生活轻饮食(5)</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726132500 +0800" stop="20260726132800 +0800">
-		<title lang="zh">课间休息、烹饪:杏仁饼干</title>
-	</programme>
-	<programme channel="金色学堂" start="20260726132800 +0800" stop="20260726132900 +0800">
-		<title lang="zh">金色学堂以9为名频道宣传片</title>
-	</programme>
 	<programme channel="金色学堂" start="20260726132900 +0800" stop="20260726134300 +0800">
 		<title lang="zh">金色公开课:冠心病-张琪、故事课</title>
 	</programme>
@@ -17909,6 +18044,216 @@
 	</programme>
 	<programme channel="金色学堂" start="20260726195000 +0800" stop="20260726195800 +0800">
 		<title lang="zh">课间休息、家庭花卉养护:杜鹃花</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726195800 +0800" stop="20260726195900 +0800">
+		<title lang="zh">金色剧场宣传片</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726195900 +0800" stop="20260726204100 +0800">
+		<title lang="zh">也平凡(15)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726204100 +0800" stop="20260726210000 +0800">
+		<title lang="zh">大医来了</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726210000 +0800" stop="20260726212000 +0800">
+		<title lang="zh">大医来了</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726212000 +0800" stop="20260726213900 +0800">
+		<title lang="zh">美好生活</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726213900 +0800" stop="20260726215500 +0800">
+		<title lang="zh">金色风采:桑榆溢彩,银龄逐梦</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726215500 +0800" stop="20260726215600 +0800">
+		<title lang="zh">荧屏之星新春版(1)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726215600 +0800" stop="20260726215700 +0800">
+		<title lang="zh">金色学堂以9为名频道宣传片</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726215700 +0800" stop="20260726220000 +0800">
+		<title lang="zh">课间休息、烹饪:水果蛋糕</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726220000 +0800" stop="20260726221900 +0800">
+		<title lang="zh">超级美味</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726221900 +0800" stop="20260726222000 +0800">
+		<title lang="zh">金色学堂以9为名频道宣传片</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726222000 +0800" stop="20260726233600 +0800">
+		<title lang="zh">乐学大讲堂</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726233600 +0800" stop="20260726235200 +0800">
+		<title lang="zh">金色风采:桑榆溢彩,银龄逐梦</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726235200 +0800" stop="20260726235800 +0800">
+		<title lang="zh">课间休息、家庭安全小常识(6)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260726235800 +0800" stop="20260727000000 +0800">
+		<title lang="zh">海洋风光</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727000000 +0800" stop="20260727001600 +0800">
+		<title lang="zh">大医来了</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727001600 +0800" stop="20260727002300 +0800">
+		<title lang="zh">课间休息、百变丝巾(3):夏日风情</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727002300 +0800" stop="20260727002900 +0800">
+		<title lang="zh">课间休息、健康生活轻饮食(1)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727002900 +0800" stop="20260727005800 +0800">
+		<title lang="zh">中国舞(14)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727005800 +0800" stop="20260727010500 +0800">
+		<title lang="zh">课间休息、家庭安全小常识(1)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727010500 +0800" stop="20260727011000 +0800">
+		<title lang="zh">课间休息、家庭安全小常识(2)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727011000 +0800" stop="20260727012900 +0800">
+		<title lang="zh">艺术课堂:葫芦丝初级课程(2)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727012900 +0800" stop="20260727013700 +0800">
+		<title lang="zh">课间休息、健康生活轻饮食(5)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727013700 +0800" stop="20260727014300 +0800">
+		<title lang="zh">课间休息、家庭花卉养护:君子兰</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727014300 +0800" stop="20260727014900 +0800">
+		<title lang="zh">课间休息、健康生活轻饮食(1)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727014900 +0800" stop="20260727021800 +0800">
+		<title lang="zh">艺术课堂:中老年钢琴启蒙教程31</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727021800 +0800" stop="20260727022500 +0800">
+		<title lang="zh">课间休息、家庭花卉养护:君子兰</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727022500 +0800" stop="20260727023000 +0800">
+		<title lang="zh">课间休息、家庭安全小常识(2)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727023000 +0800" stop="20260727025500 +0800">
+		<title lang="zh">琵琶基础篇(27)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727025500 +0800" stop="20260727030100 +0800">
+		<title lang="zh">课间休息、家庭安全小常识(14)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727030100 +0800" stop="20260727030900 +0800">
+		<title lang="zh">课间休息、家庭花卉养护:绣球花</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727030900 +0800" stop="20260727035100 +0800">
+		<title lang="zh">中国书法(8)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727035100 +0800" stop="20260727040500 +0800">
+		<title lang="zh">乐学书画:风景写生(2)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727040500 +0800" stop="20260727041200 +0800">
+		<title lang="zh">课间休息、健康生活轻饮食(2)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727041200 +0800" stop="20260727041900 +0800">
+		<title lang="zh">课间休息、家庭花卉养护:绣球花</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727041900 +0800" stop="20260727043900 +0800">
+		<title lang="zh">生活好技艺:中西式点心-咖喱饺</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727043900 +0800" stop="20260727044600 +0800">
+		<title lang="zh">课间休息、百变丝巾(2)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727044600 +0800" stop="20260727045200 +0800">
+		<title lang="zh">课间休息、家庭花卉养护:发财树</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727045200 +0800" stop="20260727045900 +0800">
+		<title lang="zh">课间休息、家庭花卉养护:绣球花</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727045900 +0800" stop="20260727051400 +0800">
+		<title lang="zh">生活好技艺:茶艺(6)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727051400 +0800" stop="20260727052100 +0800">
+		<title lang="zh">课间休息、家庭花卉养护(8):多肉</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727052100 +0800" stop="20260727052800 +0800">
+		<title lang="zh">课间休息、家庭花卉养护:月季花</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727052800 +0800" stop="20260727052900 +0800">
+		<title lang="zh">金色学堂以9为名频道宣传片</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727052900 +0800" stop="20260727054900 +0800">
+		<title lang="zh">乐学书画:丝网版画(2)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727054900 +0800" stop="20260727055700 +0800">
+		<title lang="zh">课间休息、健康生活轻饮食(5)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727055700 +0800" stop="20260727055800 +0800">
+		<title lang="zh">荧屏之星新春版(1)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727055800 +0800" stop="20260727055900 +0800">
+		<title lang="zh">金色学堂以9为名频道宣传片</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727055900 +0800" stop="20260727062900 +0800">
+		<title lang="zh">健康买菜经(15)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727062900 +0800" stop="20260727063700 +0800">
+		<title lang="zh">课间休息、健康生活轻饮食(5)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727063700 +0800" stop="20260727064000 +0800">
+		<title lang="zh">课间休息、烹饪:水果蛋糕</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727064000 +0800" stop="20260727070800 +0800">
+		<title lang="zh">中国舞(14)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727070800 +0800" stop="20260727071500 +0800">
+		<title lang="zh">课间休息、家庭安全小常识(1)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727071500 +0800" stop="20260727072000 +0800">
+		<title lang="zh">课间休息、家庭安全小常识(2)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727072000 +0800" stop="20260727073900 +0800">
+		<title lang="zh">艺术课堂:葫芦丝初级课程(2)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727073900 +0800" stop="20260727074700 +0800">
+		<title lang="zh">课间休息、健康生活轻饮食(5)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727074700 +0800" stop="20260727075400 +0800">
+		<title lang="zh">课间休息、家庭花卉养护:君子兰</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727075400 +0800" stop="20260727080000 +0800">
+		<title lang="zh">课间休息、健康生活轻饮食(1)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727080000 +0800" stop="20260727082900 +0800">
+		<title lang="zh">艺术课堂:中老年钢琴启蒙教程31</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727082900 +0800" stop="20260727083500 +0800">
+		<title lang="zh">课间休息、家庭花卉养护:君子兰</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727083500 +0800" stop="20260727084000 +0800">
+		<title lang="zh">课间休息、家庭安全小常识(2)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727084000 +0800" stop="20260727090500 +0800">
+		<title lang="zh">琵琶基础篇(27)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727090500 +0800" stop="20260727091100 +0800">
+		<title lang="zh">课间休息、家庭安全小常识(14)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727091100 +0800" stop="20260727091900 +0800">
+		<title lang="zh">课间休息、家庭花卉养护:绣球花</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727091900 +0800" stop="20260727100100 +0800">
+		<title lang="zh">中国书法(8)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727100100 +0800" stop="20260727101700 +0800">
+		<title lang="zh">大医来了</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727101700 +0800" stop="20260727102500 +0800">
+		<title lang="zh">课间休息、百变丝巾(3):夏日风情</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727102500 +0800" stop="20260727103000 +0800">
+		<title lang="zh">课间休息、家庭安全小常识(2)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727103000 +0800" stop="20260727111000 +0800">
+		<title lang="zh">金色营养课</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727111000 +0800" stop="20260727112400 +0800">
+		<title lang="zh">乐学书画:风景写生(2)</title>
+	</programme>
+	<programme channel="金色学堂" start="20260727112400 +0800" stop="20260727113100 +0800">
+		<title lang="zh">课间休息、健康生活轻饮食(2)</title>
 	</programme>
 	<channel id="金鹰纪实">
 		<display-name lang="zh">金鹰纪实</display-name>
