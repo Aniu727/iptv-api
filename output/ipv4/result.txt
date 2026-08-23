@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-23 18:21:17,http://192.151.150.154/live/hnwshd.m3u8
+2026-08-24 06:17:16,http://192.151.150.154/live/hnwshd.m3u8
 
 央视高清,#genre#
 
@@ -36,16 +36,16 @@
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=e980e9e5c185c4c53edd82c88bd1cd48&wsTime=1786856454
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=f5a2023494bd5feb515d21056344cc1c&wsTime=1785996091
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=6e7dd2120907dc66fb180e2cc61380b2&wsTime=1786165246
 文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=ddf6e7e04b8fa908c61547524c06dc64&wsTime=1787374728
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=63f2d578ce3b79ad0d71a29ed7868c64&wsTime=1787461223
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=001978dc585f033a78e3095bfda906a8&wsTime=1787202039
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=ce3e3f7f9b18f2015b7568106ec50f6b&wsTime=1787115678
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=7035f2e606bde8ea6de6a9beca57c3be&wsTime=1785563983
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=b9930452301f594354c3fd5e1f666170&wsTime=1786510820
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=181ab143763fb0fdddb5e60b4eb25faa&wsTime=1787029145
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=365560d2a1e14e536670196e33739022&wsTime=1786597222
 文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=5b700e68824e978bdc21e0e73709295e&wsTime=1786338082
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=30707f2f2cc8886bdebe58f24b0c6da4&wsTime=1785477614
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=7035f2e606bde8ea6de6a9beca57c3be&wsTime=1785563983
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=a46066083f061e1e80b091159e7a3e7f&wsTime=1786251684
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=63f2d578ce3b79ad0d71a29ed7868c64&wsTime=1787461223
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=de64367f3d7f62162e7415242fa67989&wsTime=1785909633
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=31a780a20d0a45fe2681bc1b75d8c729&wsTime=1785650486
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 
 国际时事,#genre#
