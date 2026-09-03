@@ -1,25 +1,24 @@
 🕘️更新时间,#genre#
-2026-09-03 07:50:48,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2026-09-03 22:05:46,http://192.151.150.154/live/hnwshd.m3u8
 
 央视高清,#genre#
 
 卫视高清,#genre#
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
-湖南卫视,http://101.66.194.161:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-东方卫视,http://101.66.194.161:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
-东方卫视,http://101.66.199.17:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://101.66.194.161:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://101.66.199.17:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://124.228.160.210:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://124.228.160.210:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://drive.mxmy.net:8888/udp/239.3.1.135:8028
-江苏卫视,http://101.66.194.161:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
-江苏卫视,http://101.66.199.17:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://124.228.160.210:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
+安徽卫视,http://124.228.160.210:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://drive.mxmy.net:8888/udp/239.3.1.156:8148
+东南卫视,http://124.228.160.210:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://124.228.160.210:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
@@ -32,24 +31,24 @@
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 
 数字高清,#genre#
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=ad0a106f650fea5b0b9a4266329bb8b1&wsTime=1787716767
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=1ce4555af2224e31625b98e4962f7749&wsTime=1788066020
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=c009e60dc164f44f57b84dd546f76039&wsTime=1787630414
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=be971c483ecf67819629d4a5d7ae3a64&wsTime=1788242435
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=6299f2221ea1065611c8d43b8a924a73&wsTime=1788325250
 文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=08b518b152da7945aec38c28d1b1df3e&wsTime=1788152421
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=ddf6e7e04b8fa908c61547524c06dc64&wsTime=1787374728
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=8ece59fd8a43b53974d0c66338d3e0f9&wsTime=1787543990
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=63f2d578ce3b79ad0d71a29ed7868c64&wsTime=1787461223
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=82ed42170f13654f9b46f08c3de0748d&wsTime=1787810439
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=001978dc585f033a78e3095bfda906a8&wsTime=1787202039
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=8e1678e927213487fa1545f6608d54be&wsTime=1787990474
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=aba85e7858b571ad7c0417c813d5ba15&wsTime=1788238900
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=1ce4555af2224e31625b98e4962f7749&wsTime=1788066020
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=c78725f065eab236488ea956d2e74e28&wsTime=1787821270
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=fe9aa7902ea2c5c62b08a75d82d249ca&wsTime=1788411840
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=385c46d132a64b6786c29d3369762a76&wsTime=1787914840
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=ad0a106f650fea5b0b9a4266329bb8b1&wsTime=1787716767
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=be971c483ecf67819629d4a5d7ae3a64&wsTime=1788242435
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 
 国际时事,#genre#
@@ -61,6 +60,7 @@ CGTN,http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/830/index.m3u8
 CGTN,http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=823726&extension=ts
 
 地方特色,#genre#
+金鹰卡通,http://221.13.235.123:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江科教影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 
 NewTV系列,#genre#
