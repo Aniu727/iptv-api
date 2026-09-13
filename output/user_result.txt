@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-13 07:41:10,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+2026-09-13 22:03:44,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 央视高清,#genre#
 CCTV-1 综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -563,16 +563,16 @@ CHC动作电影,https://migu.188766.xyz/?migutoken=b6a00d6356d42e25875bed1f8c427
 第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-11.m3u8
 第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-6.m3u8
 武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=a3ad6f52fe3c3125d9243dffeb6e1a1b&wsTime=1788836689
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=3676a0cf04298fb4a312d999a7bcc451&wsTime=1788930242
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=ff1228ea83c76594b9c329555ec83039&wsTime=1789189466
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=803efc9fd5f9a2fe7c288d32ec5057f4&wsTime=1788750197
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=23681a751724ae56bf3bc4ff94f52ca8&wsTime=1788757450
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=c4108f4b0e86e0202bb270e116c84ade&wsTime=1788843853
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=fe9aa7902ea2c5c62b08a75d82d249ca&wsTime=1788411840
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=f379db3780ed585661a5599d2baba9d6&wsTime=1788584672
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=1dd1e5e0ca4e9a970e6ee641a7d82661&wsTime=1789049062
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=e1bd0b560c68e7d612f1d0940a01c525&wsTime=1788577395
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=30707f2f2cc8886bdebe58f24b0c6da4&wsTime=1785477614
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=5b700e68824e978bdc21e0e73709295e&wsTime=1786338082
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=5fd35d652632bba2ab15e1183f593520&wsTime=1786082483
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=fb96189367b4a5c72a3914a72fc22fb1&wsTime=1786078872
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=6e7dd2120907dc66fb180e2cc61380b2&wsTime=1786165246
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=ad0a106f650fea5b0b9a4266329bb8b1&wsTime=1787716767
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=8915698a2eb0a70cc7ed5f420442e51b&wsTime=1785736856
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=31a780a20d0a45fe2681bc1b75d8c729&wsTime=1785650486
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=25c79af51146cff1d98aafeadfd796ce&wsTime=1786424430
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=a46066083f061e1e80b091159e7a3e7f&wsTime=1786251684
 梨园,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 梨园,https://iptv.catvod.com/migu?id=961930369&token=0490ac4a225892f11fdf8b71d6fb1631
 梨园,https://iptv.catvod.com/migu?id=961930369&token=c0d5e8d17f1d78accbf17089e4912248
@@ -583,8 +583,8 @@ CHC动作电影,https://migu.188766.xyz/?migutoken=b6a00d6356d42e25875bed1f8c427
 梨园,https://iptv.catvod.com/migu?id=961930369&token=5c79987a646c9196bbb054bcfba9e6c9
 梨园,https://iptv.catvod.com/migu?id=961930369&token=72b95ba747dc1825a5485bb880c7fc9d
 梨园,https://iptv.catvod.com/migu?id=961930369&token=9894ad3b564c9c41a00163ae1431eba4
-天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
+天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 天元围棋,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
 天元围棋,http://wouu.net:9977/udp/239.93.42.55:5140
 弈坛春秋,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
