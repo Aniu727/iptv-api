@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-10 23:41:42,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2026-10-11 08:39:23,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 央视高清,#genre#
 
@@ -7,7 +7,6 @@
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-浙江卫视,http://113.25.252.226:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
@@ -24,21 +23,21 @@
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 
 数字高清,#genre#
-都市剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dsjchd
 都市剧场,http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=dsjchd&usign=
+都市剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dsjchd
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 欢笑剧场,http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=hxjchd&usign=
 第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=8915698a2eb0a70cc7ed5f420442e51b&wsTime=1785736856
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=36ffde5cb1cccdf08cb94c05c579de79&wsTime=1791612241
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=30707f2f2cc8886bdebe58f24b0c6da4&wsTime=1785477614
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=3d0e3c0df36cf313ed73b62015642098&wsTime=1789707849
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=e963a42a7e5ee71ce4daf0bfe1273741&wsTime=1790481799
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=1dd1e5e0ca4e9a970e6ee641a7d82661&wsTime=1789049062
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=9140e4ce091c7db3c1bbe64b1907aac6&wsTime=1789016611
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=31a780a20d0a45fe2681bc1b75d8c729&wsTime=1785650486
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=f0df33da1f52723f2c8d26215168f8f8&wsTime=1789621496
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=f16defff7dc755edee10b94258b6ae63&wsTime=1789967073
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=89ed5fe6e642dc5ec74ab036df78161e&wsTime=1790222694
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=eeb424666dc653088cf1c9fda8fe7f8c&wsTime=1789959804
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=1e57a3442e9e722e5e44542053f88aa1&wsTime=1789275819
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=aca5c3581a353664f26ac706bce61287&wsTime=1790395435
 文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=e0eed442ba774bb1470e9cf9dc983eb5&wsTime=1790568292
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=ff1228ea83c76594b9c329555ec83039&wsTime=1789189466
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=956aa21d55c3bc509217e88fc5c658db&wsTime=1790053473
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=537ba61a5a7bdef95cfa7dc734c59952&wsTime=1789617859
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=e8715346a190406fe165b43819083330&wsTime=1790049851
 天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
 
 国际时事,#genre#
