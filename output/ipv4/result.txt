@@ -1,86 +1,51 @@
 🕘️更新时间,#genre#
-2026-10-21 22:51:33,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2026-10-22 08:23:53,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 央视高清,#genre#
 
 卫视高清,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
-湖南卫视,http://219.159.147.195:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://219.159.147.195:9901/tsfile/live/1026_1.m3u8?key=txiptv
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-东方卫视,http://112.103.141.175:1234/651632648
-东方卫视,http://219.159.147.195:9901/tsfile/live/1023_1.m3u8?key=txiptv
-东方卫视,http://219.159.147.195:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://112.103.141.175:1234/630287636
-北京卫视,http://219.159.147.195:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://219.159.147.195:9901/tsfile/live/1024_1.m3u8?key=txiptv
-江苏卫视,http://112.103.141.175:1234/623899368
-江苏卫视,http://219.159.147.195:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://219.159.147.195:9901/tsfile/live/1016_1.m3u8?key=txiptv
-安徽卫视,http://219.159.147.195:9901/tsfile/live/1027_1.m3u8?key=txiptv
-安徽卫视,http://219.159.147.195:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://219.159.147.195:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://219.159.147.195:9901/tsfile/live/1036_1.m3u8?key=txiptv
-东南卫视,http://112.103.141.175:1234/849116810
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,http://219.159.147.195:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://219.159.147.195:9901/tsfile/live/1032_1.m3u8?key=txiptv
-广东卫视,http://112.103.141.175:1234/608831231
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
-海南卫视,http://112.103.141.175:1234/947472502
-河北卫视,http://112.103.141.175:1234/962042070
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
-河南卫视,http://112.103.141.175:1234/790187291
-湖北卫视,http://112.103.141.175:1234/947472496
-江西卫视,http://112.103.141.175:1234/783847495
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,http://112.103.141.175:1234/947472500
-辽宁卫视,http://112.103.141.175:1234/630291707
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-四川卫视,http://219.159.147.195:9901/tsfile/live/1033_1.m3u8?key=txiptv
-四川卫视,http://219.159.147.195:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-三沙卫视,http://112.103.141.175:1234/961023778
-青海卫视,http://112.103.141.175:1234/947472506
-陕西卫视,http://112.103.141.175:1234/738910838
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
-宁夏卫视,http://112.103.141.175:1234/738910535
-兵团卫视,http://112.103.141.175:1234/956923145
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 
 数字高清,#genre#
 第一剧场,http://zby.lskk.top/cdnlive.php?mode=play&id=dfc5e2217c10d2abe2ed38e3c2ccde04&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=a37907470c861b1ee2ee058a5634c748&wsTime=1790661897
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=e0eed442ba774bb1470e9cf9dc983eb5&wsTime=1790568292
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=02e19e76d2c63f5ef45a0484ff066198&wsTime=1789880650
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=4897e7d859abb27c0245d193675cc545&wsTime=1790139897
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=e8715346a190406fe165b43819083330&wsTime=1790049851
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=8fa8b355abc927251279dd8e7296bd6c&wsTime=1790831010
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=e963a42a7e5ee71ce4daf0bfe1273741&wsTime=1790481799
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=f193ca26010685e8f1c3ac9ffe2cbbd4&wsTime=1790834635
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=90b09ed4f821bf59602b61bdcdcb3b6c&wsTime=1790744618
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=89ed5fe6e642dc5ec74ab036df78161e&wsTime=1790222694
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=d8284c9c8229d5aaccbe428e14499af1&wsTime=1791435803
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=fdb758270c0b2e1bd159f450c2a823a5&wsTime=1791000292
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=ca2b294bcd0b10e01a7a56638ec5100a&wsTime=1790226216
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=e7eda80f3e95998cab72664d9871412a&wsTime=1789794247
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=d3579b2d8b62048cc564e5e76dac7a26&wsTime=1789445090
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=ca06247c34e9a5f8fc9f379298323bd2&wsTime=1790485432
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=13fece98ecc46ed7c08b63a47584f6da&wsTime=1790748238
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=eeb424666dc653088cf1c9fda8fe7f8c&wsTime=1789959804
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=e8ece0fba488deac8c988a9d2a8239f5&wsTime=1791529459
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=0ac5bf2fe7b8e9a168399d81e4a79481&wsTime=1789535024
 
 国际时事,#genre#
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN,https://english-livebkali.cgtn.com/live/encgtn.m3u8
-CGTN,http://112.103.141.175:1234/609017205
+CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58622.ts
 
 地方特色,#genre#
-快乐垂钓,http://112.103.141.175:1234/961930263
 浙江科教影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 
 NewTV系列,#genre#
